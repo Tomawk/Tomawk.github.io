@@ -170,7 +170,6 @@ body .menu {
 body .menu .small_li {
   width: 50px;
   height: 30px;
-  transition: background-position-x 0.9s linear;
   text-align: center;
   border: 2px solid hidden;
 }
@@ -193,7 +192,6 @@ body .menu li a {
   font-size: 12px;
   color: #a6a6a6;
   text-decoration: none;
-  transition: all 0.45s;
 }
 body .menu li #active_link {
   color: #E0E0E0;

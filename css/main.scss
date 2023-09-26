@@ -334,7 +334,6 @@ html {
 .menu .small_li {
   width: 50px;
   height: 30px;
-  transition: background-position-x 0.9s linear;
   text-align: center;
   border: 2px solid $border;
 
@@ -345,7 +344,6 @@ html {
     text-decoration: underline;
     text-decoration-color: #55FF33;
     text-underline-offset: 5px;
-    transition: all 0.45s;
   }
 
   &:hover a {
@@ -365,7 +363,6 @@ html {
     font-size: 11px;
     color: #a6a6a6;
     text-decoration: none;
-    transition: all 0.45s;
   }
 
   &:hover a {
