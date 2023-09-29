@@ -143,6 +143,9 @@ body #css_box {
 body #html_box {
   color: #F16524;
 }
+body #omnet_box {
+  color: #FFFFFF;
+}
 body #fastpizza {
   background-image: url("../img/pizza.jpg");
 }
@@ -157,6 +160,15 @@ body #bomberman {
 }
 body #trainaround {
   background-image: url("../img/trainaround.jpg");
+}
+body #aerocom_sim {
+  background-image: url("../img/aerocom_sim.jpg");
+}
+body #tomawk_website {
+  background-image: url("../img/tomawk_website.jpg");
+}
+body #vinted {
+  background-image: url("../img/vinted_gen.png");
 }
 body .menu {
   display: flex;
