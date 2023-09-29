@@ -155,6 +155,9 @@ body #herethepaw {
 body #bomberman {
   background-image: url("../img/bomberman.jpg");
 }
+body #trainaround {
+  background-image: url("../img/trainaround.jpg");
+}
 body .menu {
   display: flex;
   justify-content: start;
