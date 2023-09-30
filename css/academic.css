@@ -170,6 +170,9 @@ body #tomawk_website {
 body #vinted {
   background-image: url("../img/vinted_gen.png");
 }
+body #smartgreenhouse {
+  background-image: url("../img/smartgreenhouse.png");
+}
 body .menu {
   display: flex;
   justify-content: start;
