@@ -31,13 +31,13 @@ body .main_div {
   top: 5vh;
 }
 body .photo_div {
-  width: 10vh;
-  height: 10vh;
+  width: 135px;
+  height: 135px;
   padding: 10px;
   position: absolute;
-  top: 15vh;
-  left: 50vh;
-  background-image: url("../img/propic.jpg");
+  top: 90px;
+  left: 556px;
+  background-image: url("../img/cropped_img_propic.jpg");
   background-size: cover;
   border-radius: 50%;
 }
@@ -89,6 +89,11 @@ body .presentation .pdf {
   background-color: #262626;
   cursor: pointer;
   text-decoration: none;
+}
+body .inner_div {
+  border: 2px solid hidden;
+  width: 515px;
+  height: 110px;
 }
 body .bullet_lists {
   display: flex;

@@ -40,14 +40,15 @@ body {
   }
 
   .photo_div {
-   // border: 2px solid blue;
-    width: 10vh;
-    height: 10vh;
+    width: 135px;
+    height: 135px;
     padding: 10px;
     position: absolute;
-    top: 15vh;
-    left: 50vh;
-    background-image: url('../img/propic.jpg');
+    //top: 345px;
+    //left: 530px;
+    top: 90px;
+    left: 556px;
+    background-image: url('../img/cropped_img_propic.jpg');
     background-size: cover;
     border-radius: 50%;
   }
@@ -109,6 +110,12 @@ body {
     background-color: #262626;
     cursor: pointer;
     text-decoration: none;
+  }
+
+  .inner_div{
+    border: 2px solid $border;
+    width: 515px;
+    height: 110px;
   }
 
   .bullet_lists{
