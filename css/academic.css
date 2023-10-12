@@ -173,6 +173,9 @@ body #vinted {
 body #smartgreenhouse {
   background-image: url("../img/smartgreenhouse.png");
 }
+body #lottoclientserver {
+  background-image: url("../img/lottoclientserver.jpg");
+}
 body .menu {
   display: flex;
   justify-content: start;
